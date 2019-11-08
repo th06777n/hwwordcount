@@ -1,0 +1,8 @@
+Many executable application codes are much smaller than the web-scale datasets they process, 
+and cloud computing avoids large data movement during execution.
+The core of a cloud is the server cluster (or VM cluster). 
+The cluster nodes are used as compute nodes. 
+A few control nodes are used to manage and monitor of the cloud activities. 
+The scheduling of user jobs on a cloud is required to assign the work to virtual clusters created for users. 
+The gateway nodes provide the access points of the service from the outside world. 
+These gateway nodes can be also used for security control of the entire cloud platform.
